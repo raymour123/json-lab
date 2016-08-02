@@ -1,3 +1,79 @@
+Answers to Lab:
+
+{
+     "familiy_array":[
+
+			{"name":"Mom",
+			 "age":"60",
+			 "quality": "loving",
+			 "appearance":
+			 		{"eyes":"brown",
+			 		 "hair":"medium"
+			 		}
+			 },
+			 
+			 {"name":"Dad",
+			 "age":"59",
+			 "quality": "Strong",
+			 "appearance":
+			 		{"eyes":"brown",
+			 		 "hair":"bald"
+			 		}
+			 },
+			 {"name":"Bro",
+			 "age":"24",
+			 "quality": "entreprenurial",
+			 "appearance":
+			 		{"eyes":"brown",
+			 		 "hair":"short"
+			 		}
+			 }
+			 
+			 
+ ]
+ }
+
+ { "family_nested_objects":
+ 		{"mom":
+ 			"age":"60",
+ 			"quality":"loving",
+ 			"appearance":
+ 				{"eyes":"brown",
+ 				"hair":"medium"}
+ 				}
+ 				},
+
+ 				{"Dad":
+ 			"age":"59",
+ 			"quality":"Strong",
+ 			"appearance":
+ 				{"eyes":"brown",
+ 				"hair":"bald"}
+ 				},
+
+ 				{"brother":
+ 			"age":"24",
+ 			"quality":"entreprenurial",
+ 			"appearance":
+ 				{"eyes":"brown",
+ 				"hair":"short"}
+
+ 		}
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 | Title | Type | Duration | Name | City |
